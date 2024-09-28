@@ -4,6 +4,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=humnahashmi&show_icons=true&locale=en&layout=compact" alt="humnahashmi" /></p>
+<cente><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=humnahashmi&show_icons=true&locale=en&layout=compact" alt="humnahashmi" /></p> </center>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humnahashmi&" alt="humnahashmi" /></p>
+<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humnahashmi&" alt="humnahashmi" /></p></center>
