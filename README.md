@@ -25,10 +25,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=humnahashmi&theme=radical&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
----
 
-### Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=humnahashmi&theme=radical" alt="Contribution Graph" />
-</p>
