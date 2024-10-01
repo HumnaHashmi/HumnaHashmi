@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Humna Hashmi</h1>
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
-<p align="center">Welcome to my GitHub profile! I'm a passionate software engineer from Pakistan with a strong background in building dynamic web and mobile applications. I specialize in full-stack development, creating efficient solutions, and delivering high-quality, user-centric software. Whether it's developing a seamless UI or optimizing backend performance, I thrive on tackling challenges and turning innovative ideas into reality.</p>
+<p align="center">Hey there! 👋 Welcome to my GitHub!
+
+I'm Humna Hashmi, a passionate software engineer from Pakistan, blending creativity with technical expertise to craft dynamic web and mobile applications. 🚀 With a strong foundation in full-stack development, I specialize in building seamless user experiences, optimizing backend systems, and turning innovative ideas into impactful digital solutions.
+
+From crafting responsive UIs to supercharging backend performance, I love solving complex challenges and pushing the boundaries of what's possible with code. Let's connect and create something amazing together! 💡
+
+
+
+
+</p>
 
 ---
 
