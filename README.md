@@ -1,9 +1,1 @@
-<h1 align="center">Hi 👋, I'm Humna Hashmi</h1>
-<h3 align="center">Software Engineer from Pakistan</h3>
-
-
-
-
-<cente><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=humnahashmi&show_icons=true&locale=en&layout=compact" alt="humnahashmi" /></p> </center>
-
-<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humnahashmi&" alt="humnahashmi" /></p></center>
+<h1 align="center">Hi 👋, I'm Humna Hashmi</h1> <h3 align="center">Software Engineer | Full Stack Developer</h3> <p align="center">Welcome to my GitHub profile! I'm a passionate software engineer from Pakistan with a strong background in building dynamic web and mobile applications. I specialize in full-stack development, creating efficient solutions, and delivering high-quality, user-centric software. Whether it's developing a seamless UI or optimizing backend performance, I thrive on tackling challenges and turning innovative ideas into reality.</p> <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=humnahashmi&show_icons=true&locale=en&layout=compact" alt="humnahashmi's top languages" /></p> <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=humnahashmi&" alt="GitHub Streak" /></p>
